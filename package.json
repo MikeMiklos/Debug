@@ -4,7 +4,7 @@
   "description": "A wrapper debug utility",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sabiocode/debug.git"
+    "url": "https://github.com/MikeMiklos/debug.git"
   },
   "main": "index.js",
   "scripts": {
